@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package messages;
+
+message CursorMovement {
+  double x = 1;
+  double y = 2;
+}
+
+message ClickEvent {
+  bool isRightClick = 1;
+}
+
+message KeyboardEvent {
+  string key = 1;
+}
