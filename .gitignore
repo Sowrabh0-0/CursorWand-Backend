@@ -94,3 +94,11 @@ dist
 
 # Local History for Visual Studio Code
 .history/
+
+
+#firebase
+cursorwand-firebase-adminsdk-ag3rf-f8f5ea7c08.json
+
+
+#logs
+/logs
